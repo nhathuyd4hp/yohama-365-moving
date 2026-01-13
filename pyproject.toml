@@ -1,0 +1,16 @@
+[project]
+name = "moving"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "customtkinter>=5.2.2",
+    "keyboard>=0.13.5",
+    "msal>=1.34.0",
+    "nasiwak>=0.1.9",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "selenium>=4.39.0",
+    "tkcalendar>=1.6.1",
+]
